@@ -22,6 +22,3 @@ This repository contains projects completed during **"Yandex.Practicum Data Scie
 **Key words**: games, hypotheses testing  
 
 **Libraries used**: pandas, numpy, seaborn, scipy, matplotlib
-
-<img src="images/events%20per%20date.png" alt="drawing" width="400"/>
-<img src="images/funnel.png" alt="drawing" width="400"/>
