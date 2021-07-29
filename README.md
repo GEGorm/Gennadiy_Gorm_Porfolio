@@ -7,7 +7,7 @@ This repository contains projects completed during **"Yandex.Practicum Data Scie
 
 # Jupyter notebook<a id='jn'></a>
 
-## [Gaming platform analysis]<a id='game'></a>
+## [Gaming platform analysis](https://github.com/GEGorm/Gennadiy_Gormulinskiy_Porfolio/blob/1db1f8b34423b3d20642f0ef69dfdeb562aafb8d/Games%20analysis/Games_Analysis.ipynb)<a id='game'></a>
  
  In this project I've analyzed released games:
  * Determined how many games are there per each year, chose a suitable date interval for analysis
