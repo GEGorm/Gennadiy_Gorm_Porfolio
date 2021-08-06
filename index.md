@@ -1,7 +1,7 @@
 ## Gennadiy Gormulinskiy portfolio
 
 ### About
-<img align="right" src="Foto.jpg">
+<img align="left" src="Foto.jpg">
 My name is Gennadiy and i am junior Data Scientist.  I have graduated Data Scientits Yandex Practicum program, which included 9 monthes of studiyng (560+ hours), 13 completed DS projects. Also, i finished course 'Mathematics for Data Science' from Otus Education. I have 10+ years experience in developing and implementing ERP system in commercial and financial companies. For technical skills, this gave me experience with large databases, performance optimization. For softskill, the ability to understand business goals, and extract a benefits from company data.
 
 ### Projects Overview
