@@ -8,7 +8,7 @@ I have **10+ years experience in developing and implementing ERP system** in com
 ### Projects Overview
 ##### Projects completed during "Yandex.Practicum Data Scientist" professional program
 
-1. [Jupyter notebook](#jn)
+[Jupyter notebook](#jn)
 - [Gaming platform analysis](#game)
 - [Bank clients outlow](#bank)
 - [Gold mining](#gold)
@@ -76,5 +76,6 @@ In this project I've build a model to predict the amount of gold recovered from 
  * Trained ML models such as - LinearRegression, RandomForestRegressor, DecisionTreeRegressor
  * Managed to get better sMape score than baseline models based on median target
 
-.
+### Certificates
+![Practicum](/Practicum.png)
 ![Otus](/otus.png)
