@@ -5,6 +5,8 @@
 My name is Gennadiy and I am junior Data Scientist. I have graduated **Data Scientits Yandex Practicum** program, which included 9 monthes of studiyng (560+ hours), 13 completed DS projects. Also, I finished course **Mathematics for Data Science** from Otus Education. Currently I keep improving my Python programming skill on course **Python backend developer** by Yndex Practicum.    
 I have **10+ years experience in developing and implementing ERP system** in commercial and financial companies. For technical skills, this gave me experience with large databases, performance optimization. For softskill, the ability to understand business goals, and extract a benefits from company data.
 
+### [LinkedIn](https://www.linkedin.com/in/%D0%B3%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9-%D0%B3%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-374a47a0/)
+
 ### Projects Overview
 ##### Projects completed during "Yandex.Practicum Data Scientist" professional program
 
@@ -61,6 +63,7 @@ In this project I've build a model to predict clients churn:
 
 ## [Gold mining](https://github.com/GEGorm/Gennadiy_Gormulinskiy_Porfolio/blob/aa7f0054a4ef5ed97df02d591ac5f9a213ba9e4a/Gold%20mining/Gold%20mining.ipynb)<a id='gold'></a>
  
+<img align="middle" src="gold.png">
 
 ## Project's goal<a id='goal'></a>
 
