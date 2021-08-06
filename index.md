@@ -1,3 +1,6 @@
+## About
+My name is Gennadiy and i am junior Data Scientist. I have graduated Data Scientits Yandex Practicum program, which included 9 monthes of studiyng (560+ hours), 13 completed DS projects. Also, i finished course 'Mathematics for Data Science' from Otus Education.
+![Otus](/otus.png)
 ## Gennadiy Gormulinskiy portfolio
 ##### Projects completed during "Yandex.Practicum Data Scientist" professional program
 
