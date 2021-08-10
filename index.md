@@ -1,4 +1,3 @@
-## Gennadiy Gormulinskiy portfolio
 
 ### About
 <img align="right" src="Foto.jpg" style="margin:0px 0px 0px 50px">
