@@ -106,9 +106,10 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color;
   text-align: center;
   background: url(/_layouts/gamespng.png) no-repeat;
+  width: 980px;
+  height: 100px;
 
   @include large {
     padding: 5rem 6rem;
