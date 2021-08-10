@@ -2,8 +2,7 @@
 
 ### About
 <img align="right" src="Foto.jpg">
-My name is Gennadiy and I am a junior Data Scientist. I have graduated **Data Scientist Yandex Practicum** program, which included 9 months of studying (560+ hours), 13 completed DS projects. Also, I finished the course **Mathematics for Data Science** from Otus Education. Currently, I keep improving my Python programming skill on course **Python backend developer** by Yandex Practicum.    
-I have **10+ years of experience in developing and implementing ERP systems** in commercial and financial companies. For technical skills, this gave me experience with large databases, performance optimization. For soft skills, the ability to understand business goals, and extract benefits from company data.
+My name is Gennadiy and I am a Junior Data Scientist with **10+ years of experience in developing and implementing ERP** systems in commercial and financial companies. Recent **Practicum by Yandex School of Data** graduate with 13 completed DS projects. Able to manage large databases and optimize performance as well as understand business goals, and extract benefits from companies' data. Additional accomplishments - the course **Mathematics for Data Science** from Otus Education.  Currently, I keep improving my Python programming skill on course **Python backend developer** by Yandex Practicum.
 
 ### [LinkedIn](https://www.linkedin.com/in/%D0%B3%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9-%D0%B3%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-374a47a0/)
 
