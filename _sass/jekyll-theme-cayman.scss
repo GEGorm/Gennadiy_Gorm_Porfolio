@@ -108,7 +108,7 @@ a {
 .page-header {
   text-align: left;
   background-image: url('https://gegorm.github.io/Gennadiy_Gorm_Porfolio/banner.png');
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 
   @include large {
