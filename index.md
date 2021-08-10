@@ -2,8 +2,8 @@
 
 ### About
 <img align="right" src="Foto.jpg">
-My name is Gennadiy and I am junior Data Scientist. I have graduated **Data Scientits Yandex Practicum** program, which included 9 monthes of studiyng (560+ hours), 13 completed DS projects. Also, I finished course **Mathematics for Data Science** from Otus Education. Currently I keep improving my Python programming skill on course **Python backend developer** by Yndex Practicum.    
-I have **10+ years experience in developing and implementing ERP system** in commercial and financial companies. For technical skills, this gave me experience with large databases, performance optimization. For softskill, the ability to understand business goals, and extract a benefits from company data.
+My name is Gennadiy and I am a junior Data Scientist. I have graduated **Data Scientist Yandex Practicum** program, which included 9 months of studying (560+ hours), 13 completed DS projects. Also, I finished the course **Mathematics for Data Science** from Otus Education. Currently, I keep improving my Python programming skill on course **Python backend developer** by Yandex Practicum.    
+I have **10+ years of experience in developing and implementing ERP systems** in commercial and financial companies. For technical skills, this gave me experience with large databases, performance optimization. For soft skills, the ability to understand business goals, and extract benefits from company data.
 
 ### [LinkedIn](https://www.linkedin.com/in/%D0%B3%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9-%D0%B3%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-374a47a0/)
 
@@ -45,17 +45,17 @@ We need to **identify patterns** that determine whether a **game succeeds or not
  
 ## Project's goal<a id='bank'></a>
 
-We work at Beta bank, which suffer from client outflow
+We work at Beta bank, which suffers from client outflow
 We need to **predict** whether a **customer will leave the bank soon**. We have the data on **clients’ past behavior** and **termination of contracts** with the bank.  
-Out task is to **build a model** with the **maximum possible F1 score**. Acceptable **F1 score** of at least **0.59** on the test set.
+Our task is to **build a model** with the **maximum possible F1 score**. Acceptable **F1 score** of at least **0.59** on the test set.
 
-In this project I've build a model to predict clients churn:
+In this project I've built a model to predict client churn:
  * Data was preprocessed
- * Used ordinal encoder for tree algoritms
+ * Used ordinal encoder for tree algorithms
  * Tested different approaches for eliminating class imbalances
  * Trained ML models such as - DecisionTreeClassifier, RandomForestClassifier, LogisticRegression
- * Managed to get required f1-score, which allows to predict clients behavior
- 
+ * Managed to get required f1-score, which allows predicting clients behavior
+ *  
 **Key words**: MachineLearning, SupervisedLearning, model, LogisticRegression, RandomForestClassifier, f1_score, OrdinalEncoder 
 
 **Libraries used**: pandas, sklearn
@@ -67,20 +67,20 @@ In this project I've build a model to predict clients churn:
 
 ## Project's goal<a id='goal'></a>
 
-Our goal is to prepare **prototype of a machine learning model** for the gold mining company. This company develops efficiency solutions for heavy industry.
+Our goal is to prepare **prototype of a machine learning model** for the gold mining company. This company develops efficient solutions for heavy industry.
 The model should **predict the amount of gold recovered from gold ore**. We have the data on extraction and purification. The model will help to optimize the production and eliminate unprofitable parameters.
 The metric for the task - sMape.
 It is similar to MAE, but is expressed in relative values instead of absolute ones. It equally takes into account the scale of both the target and the prediction.
 
-In this project I've build a model to predict the amount of gold recovered from gold ore:
+In this project I've built a model to predict the amount of gold recovered from gold ore:
  * Data was preprocessed
  * Explored the process and stages of gold extraction from the gold genus
  * Analyzed concentration of metals in gold ore
- * Developed funtcion for new metric - sMape
- * For tuninig hyperparametrs was used GridSearch 
+ * Developed function for new metric - sMape
+ * For tuning hyperparameters was used GridSearch 
  * Trained ML models such as - LinearRegression, RandomForestRegressor, DecisionTreeRegressor
- * Managed to get better sMape score than baseline models based on median target
-
+ * Managed to get better sMape score than baseline models based on a median target
+ 
 ### Certificates
 ![Practicum](/Practicum.png)
 ![Otus](/otus.png)
