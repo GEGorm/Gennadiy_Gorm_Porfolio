@@ -109,6 +109,7 @@ a {
   text-align: left;
   background-image: url('https://gegorm.github.io/Gennadiy_Gorm_Porfolio/3084452.jpg');
   background-size: contain;
+  background-repeat: no-repeat;
 
   @include large {
     padding: 5rem 6rem;
