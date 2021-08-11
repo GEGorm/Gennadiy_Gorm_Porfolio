@@ -1,13 +1,11 @@
-## Gennadiy Gormulinskiy portfolio
-
-### About
+# About
 <img align="right" src="Foto.jpg" style="margin:0px 0px 0px 50px">
-My name is Gennadiy and I am a Junior Data Scientist with **10+ years of experience in developing and implementing ERP** systems in commercial and financial companies. Recent **Practicum by Yandex School of Data** graduate with 13 completed DS projects. Able to manage large databases and optimize performance as well as understand business goals, and extract benefits from companies' data. Additional accomplishments - the course **Mathematics for Data Science** from Otus Education.  Currently, I keep improving my Python programming skill on course **Python backend developer** by Yandex Practicum.
+A Junior Data Scientist with **10+ years of experience in developing and implementing ERP** systems in commercial and financial companies. Recent **Practicum by Yandex School of Data** graduate with 13 completed DS projects. Able to manage large databases and optimize performance as well as understand business goals, and extract benefits from companies' data. Additional accomplishments - the course **Mathematics for Data Science** from Otus Education.  Currently, I keep improving my Python programming skill on course **Python backend developer** by Yandex Practicum.
 
 Find out more about my experience on my <a href="https://www.linkedin.com/in/%D0%B3%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9-%D0%B3%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-374a47a0/">LinkedIn</a> profile.
 
-### Projects Overview
-##### Projects completed during "Yandex.Practicum Data Scientist" professional program
+# Projects Overview
+Projects completed during "Yandex.Practicum Data Scientist" professional program
 
 [Jupyter notebook](#jn)
 - [Gaming platform analysis](#game)
@@ -20,7 +18,7 @@ Find out more about my experience on my <a href="https://www.linkedin.com/in/%D0
 
 <img align="middle" src="gamespng.png">
  
-## Project's goal<a id='goal'></a>
+### Project's goal<a id='goal'></a>
 
 We work for the online store Ice, which **sells video games** all over the world. 
 We need to **identify patterns** that determine whether a **game succeeds or not**. This will allow to **spot potential big winners** and **plan advertising campaigns**.
@@ -42,7 +40,7 @@ We need to **identify patterns** that determine whether a **game succeeds or not
 
 ## [Bank clients outlow](https://github.com/GEGorm/Gennadiy_Gormulinskiy_Porfolio/blob/aa7f0054a4ef5ed97df02d591ac5f9a213ba9e4a/Bank%20clients%20outlow/Bank%20clients%20outflow.ipynb)<a id='bank'></a>
  
-## Project's goal<a id='bank'></a>
+### Project's goal<a id='bank'></a>
 
 We work at Beta bank, which suffers from client outflow
 We need to **predict** whether a **customer will leave the bank soon**. We have the data on **clients’ past behavior** and **termination of contracts** with the bank.  
@@ -64,7 +62,7 @@ In this project I've built a model to predict client churn:
  
 <img align="middle" src="gold.png">
 
-## Project's goal<a id='goal'></a>
+### Project's goal<a id='goal'></a>
 
 Our goal is to prepare **prototype of a machine learning model** for the gold mining company. This company develops efficient solutions for heavy industry.
 The model should **predict the amount of gold recovered from gold ore**. We have the data on extraction and purification. The model will help to optimize the production and eliminate unprofitable parameters.
@@ -80,6 +78,6 @@ In this project I've built a model to predict the amount of gold recovered from 
  * Trained ML models such as - LinearRegression, RandomForestRegressor, DecisionTreeRegressor
  * Managed to get better sMape score than baseline models based on a median target
  
-### Certificates
+## Certificates
 ![Practicum](/Practicum.png)
 ![Otus](/otus.png)
