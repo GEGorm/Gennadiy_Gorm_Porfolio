@@ -78,6 +78,6 @@ In this project I've built a model to predict the amount of gold recovered from 
  * Trained ML models such as - LinearRegression, RandomForestRegressor, DecisionTreeRegressor
  * Managed to get better sMape score than baseline models based on a median target
  
-## Certificates
+# Certificates
 ![Practicum](/Practicum.png)
 ![Otus](/otus.png)
