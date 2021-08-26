@@ -1,11 +1,14 @@
 # # Projects Overview
 
 This repository contains projects completed during **"Yandex.Practicum Data Scientist"** professional program.
-
-1. [Jupyter notebook](#jn)
+1. [Django](#dj)
+- [Yatube - social network](#yatube)
+3. [Jupyter notebook](#jn)
 - [Gaming platform analysis](#game)
 - [Bank clients outlow](#bank)
 - [Gold mining](#gold)
+
+# Django<a id='dj'></a>
 
 # Jupyter notebook<a id='jn'></a>
 
