@@ -9,6 +9,7 @@ Projects completed during "Python Backend Developer" and "Data Scientist" Yandex
 
 [Django](#dj)
 - [Yatube - social network](#yatube)
+
 [Jupyter notebook](#jn)
 - [Gaming platform analysis](#game)
 - [Bank clients outlow](#bank)
