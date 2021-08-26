@@ -7,10 +7,33 @@ Find out more about my experience on my <a href="https://www.linkedin.com/in/gor
 # Projects Overview
 Projects completed during "Yandex.Practicum Data Scientist" professional program
 
+[Django](#dj)
+- [Yatube - social network](#yatube)
 [Jupyter notebook](#jn)
 - [Gaming platform analysis](#game)
 - [Bank clients outlow](#bank)
 - [Gold mining](#gold)
+
+# Django<a id='dj'></a>
+
+## [Yatube - social network](http://gegorm.pythonanywhere.com/)<a id='yatube'></a>
+
+<img align="middle" src="yatube.png">
+
+### Project's goal<a id='goal'></a>
+
+Develope social network with key feutures:
+- User authorization
+- Creating and editing a post with image attachments
+- Create groups of post
+- Subscription system
+- Authorized users can leave comments under posts
+- Paginator
+- Cashed main page
+ 
+**Key words**: python, django, social  
+
+**Libraries used**: django
 
 # Jupyter notebook<a id='jn'></a>
 
