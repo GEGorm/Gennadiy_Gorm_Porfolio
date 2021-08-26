@@ -40,7 +40,7 @@ Develope social network with key feutures:
 
 ## [Gaming platform analysis](https://github.com/GEGorm/Gennadiy_Gormulinskiy_Porfolio/blob/1db1f8b34423b3d20642f0ef69dfdeb562aafb8d/Games%20analysis/Games_Analysis.ipynb)<a id='game'></a>
 
-<img align="middle" src="gamespng.png">
+<img align="middle" property="og:image" src="gamespng.png">
  
 ### Project's goal<a id='goal'></a>
 
