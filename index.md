@@ -5,7 +5,7 @@ A Junior Data Scientist with **10+ years of experience in developing and impleme
 Find out more about my experience on my <a href="https://www.linkedin.com/in/gormulinskiy/">LinkedIn</a> profile.
 
 # Projects Overview
-Projects completed during "Yandex.Practicum Data Scientist" professional program
+Projects completed during "Python Backend Developer" and "Data Scientist" Yandex.Practicum professional programs
 
 [Django](#dj)
 - [Yatube - social network](#yatube)
