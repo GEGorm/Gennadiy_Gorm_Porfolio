@@ -1,5 +1,5 @@
 # About
-<img align="right" src="Foto.jpg" style="margin:0px 0px 0px 50px">
+<img align="right" src="Foto.jpg" style="margin:0px 0px 0px 50px" property="og:gg">
 **Python Developer** with proficiency in **Django** Backend Development and **Data Science**. I have **10+ years of experience in developing and implementing ERP** systems in commercial and financial companies. Recent **Practicum by Yandex School of Data** graduate with 13 completed DS projects. Able to manage large databases and optimize performance as well as understand business goals, and extract benefits from companies' data. Additional accomplishments - the course **Mathematics for Data Science** from Otus Education.  Currently, I keep improving my Python programming skill on course **Python backend developer**.
 
 Find out more about my experience on my <a href="https://www.linkedin.com/in/gegorm/">LinkedIn</a> profile.
